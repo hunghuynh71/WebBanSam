@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WebBanSam/1.0.0": {
+        "runtime": {
+          "WebBanSam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebBanSam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
